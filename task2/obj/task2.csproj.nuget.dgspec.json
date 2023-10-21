@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\glebf\\3D Objects\\7 семестр\\РПИ\\HW3\\hw3\\hw3.csproj": {}
+    "C:\\Users\\glebf\\3D Objects\\7 семестр\\РПИ\\HW3\\hw3\\task2\\task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\glebf\\3D Objects\\7 семестр\\РПИ\\HW3\\hw3\\hw3.csproj": {
+    "C:\\Users\\glebf\\3D Objects\\7 семестр\\РПИ\\HW3\\hw3\\task2\\task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\glebf\\3D Objects\\7 семестр\\РПИ\\HW3\\hw3\\hw3.csproj",
-        "projectName": "hw3",
-        "projectPath": "C:\\Users\\glebf\\3D Objects\\7 семестр\\РПИ\\HW3\\hw3\\hw3.csproj",
+        "projectUniqueName": "C:\\Users\\glebf\\3D Objects\\7 семестр\\РПИ\\HW3\\hw3\\task2\\task2.csproj",
+        "projectName": "task2",
+        "projectPath": "C:\\Users\\glebf\\3D Objects\\7 семестр\\РПИ\\HW3\\hw3\\task2\\task2.csproj",
         "packagesPath": "C:\\Users\\glebf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\glebf\\3D Objects\\7 семестр\\РПИ\\HW3\\hw3\\obj\\",
+        "outputPath": "C:\\Users\\glebf\\3D Objects\\7 семестр\\РПИ\\HW3\\hw3\\task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\glebf\\AppData\\Roaming\\NuGet\\NuGet.Config",
