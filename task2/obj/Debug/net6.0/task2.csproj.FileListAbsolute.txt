@@ -1,0 +1,15 @@
+C:\Users\glebf\3D Objects\7 семестр\РПИ\HW3\hw3\task2\bin\Debug\net6.0\task2.exe
+C:\Users\glebf\3D Objects\7 семестр\РПИ\HW3\hw3\task2\bin\Debug\net6.0\task2.deps.json
+C:\Users\glebf\3D Objects\7 семестр\РПИ\HW3\hw3\task2\bin\Debug\net6.0\task2.runtimeconfig.json
+C:\Users\glebf\3D Objects\7 семестр\РПИ\HW3\hw3\task2\bin\Debug\net6.0\task2.dll
+C:\Users\glebf\3D Objects\7 семестр\РПИ\HW3\hw3\task2\bin\Debug\net6.0\task2.pdb
+C:\Users\glebf\3D Objects\7 семестр\РПИ\HW3\hw3\task2\obj\Debug\net6.0\task2.csproj.AssemblyReference.cache
+C:\Users\glebf\3D Objects\7 семестр\РПИ\HW3\hw3\task2\obj\Debug\net6.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glebf\3D Objects\7 семестр\РПИ\HW3\hw3\task2\obj\Debug\net6.0\task2.AssemblyInfoInputs.cache
+C:\Users\glebf\3D Objects\7 семестр\РПИ\HW3\hw3\task2\obj\Debug\net6.0\task2.AssemblyInfo.cs
+C:\Users\glebf\3D Objects\7 семестр\РПИ\HW3\hw3\task2\obj\Debug\net6.0\task2.csproj.CoreCompileInputs.cache
+C:\Users\glebf\3D Objects\7 семестр\РПИ\HW3\hw3\task2\obj\Debug\net6.0\task2.dll
+C:\Users\glebf\3D Objects\7 семестр\РПИ\HW3\hw3\task2\obj\Debug\net6.0\refint\task2.dll
+C:\Users\glebf\3D Objects\7 семестр\РПИ\HW3\hw3\task2\obj\Debug\net6.0\task2.pdb
+C:\Users\glebf\3D Objects\7 семестр\РПИ\HW3\hw3\task2\obj\Debug\net6.0\task2.genruntimeconfig.cache
+C:\Users\glebf\3D Objects\7 семестр\РПИ\HW3\hw3\task2\obj\Debug\net6.0\ref\task2.dll
